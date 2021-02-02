@@ -1,0 +1,43 @@
+body{
+    font-family:sans-serif;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    background-image: url("https://i.pinimg.com/736x/7f/a7/01/7fa701c3830c6c2ca59915ad9dbe00ec.jpg");
+    
+}
+
+h1{
+    font-size: 50px;
+    background-color: seashell;
+}
+
+p{
+    font-size: 18px;
+    padding: 20px;
+    background-color: seashell;
+}
+
+.images{
+    width: 150px;
+    height: 120px;
+    display: flex;
+    flex-direction: row;
+    justify-content:flex-start;
+}
+
+#home{
+    width: 250px;
+    height: 250px;
+}
+
+ul{
+    background-color: seashell;
+    font-size: 18px;
+    padding: 20px;
+}
+
+
+
+
+
